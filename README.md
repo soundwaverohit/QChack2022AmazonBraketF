@@ -2,7 +2,15 @@
 
 ## Implementation of the Quantum Restricted Boltzmann Machine Neural Network Algorithm using Variational Methods
 
+### Background of the Restricted Boltzmann Machine 
 
+The RBM is a type of Boltzmann machine with two layers of binary-valued units and 2 hidden layers with no intra-layers connection. By introducing the restrictions of limited laayers we make the hidden units become conditionally independent given the states of the visible units giving a faster convergance time and evaluation of data. 
+
+An example of the RBM in our case:
+
+![Screen Shot 2022-04-10 at 5 32 39 AM](https://user-images.githubusercontent.com/30132476/162618297-e5254fb6-8858-4bdc-87fa-c51878f326db.png)
+
+By using the QRBM we are first initializing the network parameters such as weights and biases randomly and then providing epoch parameters and perform a grid search for random weights to find out better loss. The variational aspects for the quantum algorithm comes in computing the expectation values thus making this a variational hybrid algorithm. 
 
 
 ## Problem Description
