@@ -26,10 +26,12 @@ By using our Quantum circuit for the algorithm to be:
 ![Screen Shot 2022-04-10 at 5 06 51 AM](https://user-images.githubusercontent.com/30132476/162617273-8a303b26-cbc4-45da-9c29-3a9dea7c8aa7.png)
 
 
+Upon training and getting the measurements we get:
+
+![Screen Shot 2022-04-10 at 5 18 05 AM](https://user-images.githubusercontent.com/30132476/162617700-bfa87583-d91b-4f92-8f6f-722a45e3d9a7.png)
 
 
-
-
+And the correct values computed for the hamiltonian thermal states are:
 
 
 
