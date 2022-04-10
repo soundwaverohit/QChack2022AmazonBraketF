@@ -21,7 +21,8 @@ We have to find the variational parameters using the QRBM Algorithm and compare 
 
 ## Results
 
-By using our Quantum circuit for the algorithm to be: ![Screen Shot 2022-04-10 at 5 06 51 AM](https://user-images.githubusercontent.com/30132476/162617273-8a303b26-cbc4-45da-9c29-3a9dea7c8aa7.png)
+By using our Quantum circuit for the algorithm to be:
+![Screen Shot 2022-04-10 at 5 06 51 AM](https://user-images.githubusercontent.com/30132476/162617273-8a303b26-cbc4-45da-9c29-3a9dea7c8aa7.png)
 
 
 
