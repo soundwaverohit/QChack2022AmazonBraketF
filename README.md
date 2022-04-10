@@ -64,3 +64,14 @@ Step 2: Make sure the following packages or softwares are installed:
         
 Step 3: Run the jupyter notebook. Keep in mind the epochs and initial data can be adjusted in the notebook itself but keep in mind the entire algorithm 
         takes 30 minutes for 100 epochs for the given hamiltonian.
+
+
+
+
+
+
+## Side Comments on the project
+
+Due to the lack of time could not compute several epoch runs therefore no graph available to show accuracy vs number of epochs however the above result is with the 1000 epochs.
+
+The VQE and the QAOA algorithms are copied from a library called grove and the code after VQE and QAOA are code written for this project and the implementation of QRBM.
