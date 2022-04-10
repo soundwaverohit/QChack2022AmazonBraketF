@@ -33,6 +33,11 @@ Upon training and getting the measurements we get:
 
 And the correct values computed for the hamiltonian thermal states are:
 
+![Screen Shot 2022-04-10 at 5 25 12 AM](https://user-images.githubusercontent.com/30132476/162618000-27f60b50-72e2-45c0-80bf-38b40c2eec93.png)
+
+
+Based on this we see a percente difference of about 1% in the calculations and this calculation was done with 1000 epochs.
+
 
 
 
