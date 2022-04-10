@@ -62,7 +62,7 @@ Step 2: Make sure the following packages or softwares are installed:
             - Go to terminal and run "qvm -S" and "quilc -S" to start the Quantum virtucal machine and the quil compiler from rigetti 
         - Make sure python, conda or jupyter notebook are installed if running on a local machine
         
-Step 3: Run the jupyter notebook. Keep in mind the epochs and initial data can be adjusted in the notebook itself but keep in mind the entire algorithm 
+Step 3: Run the jupyter notebook QBM.ipynb. Keep in mind the epochs and initial data can be adjusted in the notebook itself but keep in mind the entire algorithm 
         takes 30 minutes for 100 epochs for the given hamiltonian.
 
 
