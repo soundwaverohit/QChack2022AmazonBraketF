@@ -16,11 +16,22 @@ For a given thermal state: ![Screen Shot 2022-04-10 at 4 46 07 AM](https://user-
 We have to find the variational parameters using the QRBM Algorithm and compare its speed over a classical Restricted Boltzmann Machine Algorithm for complicated Hamiltonians.
 
 
-### Results
 
 
 
-### Instructions on Running the Project
+## Results
+
+
+
+
+
+
+
+
+
+
+
+## Instructions on Running the Project
 
 Step 1: Clone the Project Repository into AWS Braket or your local machine.
 
