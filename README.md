@@ -22,3 +22,14 @@ We have to find the variational parameters using the QRBM Algorithm and compare 
 
 ### Instructions on Running the Project
 
+Step 1: Clone the Project Repository into AWS Braket or your local machine.
+
+Step 2: Make sure the following packages or softwares are installed:
+        - Python Packages (pip install {package name}: pyquil, scipy, funcsigs, numpy, functools, typing, collections
+        - If running on Braket make sure it is running on the Aspen-11 Rigetti Device
+        - If running on local machine make sure the Rigetti Forest SDK is installed https://pyquil-docs.rigetti.com/en/1.9/start.html#
+            - Go to terminal and run "qvm -S" and "quilc -S" to start the Quantum virtucal machine and the quil compiler from rigetti 
+        - Make sure python, conda or jupyter notebook are installed if running on a local machine
+        
+Step 3: Run the jupyter notebook. Keep in mind the epochs and initial data can be adjusted in the notebook itself but keep in mind the entire algorithm 
+        takes 30 minutes for 100 epochs for the given hamiltonian.
